@@ -4,4 +4,7 @@ Simple sound and tone shapes generator based on ChrisMicro's BluePillSound libra
  especially on this sketch:
  https://github.com/ChrisMicro/BluePillSound/tree/master/_082_dmaSigmaDeltaTimerOscillator
 
-Can generate tones with shape (like piano), length and volume
+Can generate:
+- tones with length, volume and shape (like piano). 
+- basic tones - beeps
+- sweep tones
