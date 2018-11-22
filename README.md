@@ -1,5 +1,5 @@
 # BluePillSoundTones
-Simple sound and tone shapes generator based on ChrisMicro's BluePillSound library:
+Simple sound and tone shapes generator based on ChrisMicro's BluePillSound project here:
  https://github.com/ChrisMicro/BluePillSound
  especially on this sketch:
  https://github.com/ChrisMicro/BluePillSound/tree/master/_082_dmaSigmaDeltaTimerOscillator
