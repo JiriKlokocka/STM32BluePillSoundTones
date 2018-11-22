@@ -11,3 +11,6 @@ Can generate:
 
 Connect PB0 to amlifier via RC circuit (4,7 kOhm in series then 47nF in paralel).
 
+STM32Duino needed:
+https://github.com/stm32duino/Arduino_Core_STM32
+
