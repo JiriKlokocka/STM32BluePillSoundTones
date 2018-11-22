@@ -1,0 +1,22 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+BPSound	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+
+BPSoundBegin	KEYWORD2
+sweepTone	KEYWORD2
+playTone	KEYWORD2
+setVolume	KEYWORD2
+toneStart	KEYWORD2
+toneStop	KEYWORD2
+sineTone	KEYWORD2
+checkSampleRate	KEYWORD2
+setSine		KEYWORD2
+setSquare	KEYWORD2
+
+ 
